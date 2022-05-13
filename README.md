@@ -1,5 +1,5 @@
 This is a demo file we have just created for our work.
 
-I have done some minor changes in this file.
+I am doing cahnges to so conflict occur in the branch 
 
 Addded a new branch to check how we can do merging of branch
